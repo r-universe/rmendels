@@ -1,0 +1,10 @@
+[
+  {
+    "package": "plotdap",
+    "oncran": true
+  },
+  {
+    "package": "rerddapXtracto",
+    "oncran": true
+  }
+]
