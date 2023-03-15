@@ -1,10 +1,10 @@
 [
   {
-    "package": "rerddapXtracto",
+    "package": "plotdap",
     "oncran": true
   },
   {
-    "package": "plotdap",
+    "package": "rerddapXtracto",
     "oncran": true
   }
 ]
