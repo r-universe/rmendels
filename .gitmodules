@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/rmendels/rmendels.r-universe.dev
 	branch = HEAD
-[submodule "YourPackageName"]
-	path = YourPackageName
+[submodule "plotdap"]
+	path = plotdap
+	url = https://github.com/rmendels/plotdap
+[submodule "rerddapUtils"]
+	path = rerddapUtils
 	url = https://github.com/rmendels/rerddapUtils
+[submodule "rerddapXtracto"]
+	path = rerddapXtracto
+	url = https://github.com/rmendels/rerddapXtracto
