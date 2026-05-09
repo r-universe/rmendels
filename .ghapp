@@ -1,0 +1,10 @@
+{
+  "id": 130948103,
+  "created_at": "2026-05-09T20:12:42.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["rerddapUtils"]
+}
