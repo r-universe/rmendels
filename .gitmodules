@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rmendels/rmendels.r-universe.dev
 	branch = HEAD
-[submodule "plotdap"]
-	path = plotdap
-	url = https://github.com/rmendels/plotdap
-[submodule "rerddapXtracto"]
-	path = rerddapXtracto
-	url = https://github.com/rmendels/rerddapxtracto
+[submodule "YourPackageName"]
+	path = YourPackageName
+	url = https://github.com/rmendels/rerddapUtils
